@@ -1,10 +1,10 @@
-# Web Development Project 3 - *Name of App Here*
+# Web Development Project 3 - Amendment Testing
 
 Submitted by: Zakaria Chowdhury
 
-This web app: **insert description**
+This web app: tests knowledge of US Amendments
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
