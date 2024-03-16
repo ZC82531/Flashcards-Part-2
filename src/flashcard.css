@@ -1,0 +1,35 @@
+.flashcard {
+    margin-top: 100px;
+    width: 500px;
+    height: 250px;
+    position: relative;
+    transition: transform 0.8s; /* Define transition for transform property */
+    transform-style: preserve-3d;
+  }
+  
+  .flipped {
+    transform: rotateX(180deg); /* Apply rotation for flipped state */
+  }
+  
+  .front, .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .front {
+    background-color: #3498db;
+  }
+  
+  .back {
+    font-size: 30px;
+    background-color: #dddd4e;
+    transform: rotateY(180deg) rotate(180deg); /* Initially hide the back side */
+  }

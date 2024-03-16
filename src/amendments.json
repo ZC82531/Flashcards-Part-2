@@ -1,0 +1,110 @@
+[
+  {
+      "Amendment": 3,
+      "Description": "Quartering of Soldiers"
+  },
+  {
+      "Amendment": 4,
+      "Description": "Searches and Seizures"
+  },
+  {
+      "Amendment": 5,
+      "Description": "Grand Jury, Double Jeopardy, Self-Incrimination, Due Process, and Eminent Domain"
+  },
+  {
+    "Amendment": 25,
+    "Description": "Presidential Disability and Succession"
+  },
+  {
+    "Amendment": 26,
+    "Description": "Voting Age Set to 18 Years"
+  },
+  {
+      "Amendment": 22,
+      "Description": "Limitation of Presidential Tenure"
+  },
+  {
+    "Amendment": 1,
+    "Description": "Freedom of Speech, Religion, Press, Assembly, and Petition"
+  },
+  {
+    "Amendment": 2,
+    "Description": "Right to Bear Arms"
+  },
+  {
+      "Amendment": 6,
+      "Description": "Criminal Prosecutions - Right to a Speedy Public Trial by Jury, to Confront Witnesses, and to Counsel"
+  },
+  {
+    "Amendment": 12,
+    "Description": "Presidential Elections"
+  },
+  {
+    "Amendment": 13,
+    "Description": "Slavery and Involuntary Servitude Abolished"
+  },
+  {
+    "Amendment": 14,
+    "Description": "Rights of Citizens"
+  },
+  {
+      "Amendment": 16,
+      "Description": "Income Tax"
+  },
+  {
+      "Amendment": 20,
+      "Description": "Terms of the President, Vice President, Members of Congress"
+  },
+  {
+      "Amendment": 21,
+      "Description": "Repeal of 18th Amendment - Repeal of Prohibition"
+  },
+  {
+    "Amendment": 7,
+    "Description": "Trial by Jury in Civil Cases"
+  },
+  {
+    "Amendment": 8,
+    "Description": "Cruel and Unusual Punishment"
+  },
+  {
+    "Amendment": 9,
+    "Description": "Construction of Constitution"
+  },
+  {
+    "Amendment": 24,
+    "Description": "Poll Taxes Barred"
+  },
+  {
+    "Amendment": 17,
+    "Description": "Popular Election of Senators"
+  },
+  {
+    "Amendment": 18,
+    "Description": "Prohibition of Intoxicating Liquors"
+  },
+  {
+    "Amendment": 19,
+    "Description": "Women's Suffrage"
+  },
+  {
+      "Amendment": 23,
+      "Description": "Presidential Electors for the District of Columbia"
+  },
+  {
+      "Amendment": 27,
+      "Description": "Congressional Pay"
+  },
+  {
+    "Amendment": 10,
+    "Description": "Powers of the States and People"
+  },
+  {
+    "Amendment": 11,
+    "Description": "Judicial Limits - States' Immunity"
+  },
+  {
+    "Amendment": 15,
+    "Description": "Right to Vote - Race, Color, Previous Condition of Servitude"
+  }
+]
